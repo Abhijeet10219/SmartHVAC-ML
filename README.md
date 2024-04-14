@@ -1,8 +1,6 @@
 # SmartHVAC-ML
  
- "Optimizing Building Energy Efficiency: Leveraging Machine Learning Models for Enhanced HVAC System Performance"
 
- 
 Reducing building energy consumption, particularly from HVAC systems, is a global challenge that requires strategic optimization of building design parameters. Conventional methods using simulation tools and optimization algorithms are computationally intensive and time-consuming.
 
 To streamline the process, the study leveraged machine learning models trained on a dataset of building design parameters and energy consumption figures. This dataset, provided by researchers from the University of Oxford, allows the models to serve as efficient proxies within the optimization framework, predicting energy consumption for different design configurations.
